@@ -1,8 +1,8 @@
-# 📊 Student Dashboard
+# 📊 Student Dashboard (Web Development Project)
 
-A modern and responsive **Student Dashboard Web Application** built using **Next.js, Supabase, Tailwind CSS, and Framer Motion**.
+A modern **Student Dashboard Web Application** built as a **Web Development project** using **Next.js, Supabase, Tailwind CSS, and Framer Motion**.
 
-This project provides a clean UI to display student courses, progress, and activity in a single-page dashboard.
+This project demonstrates how a full web application can be built with database integration, dynamic data fetching, and a clean UI design.
 
 ---
 
@@ -12,24 +12,24 @@ This project provides a clean UI to display student courses, progress, and activ
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-✔ Dynamic course data from Supabase database  
-✔ Beautiful modern dark-themed UI  
-✔ Interactive dashboard layout  
-✔ Smooth animations using Framer Motion  
-✔ Fully responsive design (mobile + desktop)  
-✔ Loading skeleton for better user experience  
-✔ Clean component-based architecture  
+✔ Dynamic course data fetched from Supabase database  
+✔ Modern and responsive dashboard UI  
+✔ Sidebar-based layout design  
+✔ Activity and progress tracking section  
+✔ Smooth animations for better UX  
+✔ Loading state for better performance feel  
+✔ Clean and reusable component structure  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Next.js (React Framework)
-- Supabase (Backend & Database)
-- Tailwind CSS (Styling)
-- Framer Motion (Animations)
+- Next.js (React-based Web Framework)  
+- Supabase (Database & Backend Service)  
+- Tailwind CSS (Styling)  
+- Framer Motion (Animations)  
 
 ---
 
@@ -37,7 +37,7 @@ This project provides a clean UI to display student courses, progress, and activ
 
 app → Main dashboard page  
 components → UI components (Sidebar, Hero, CourseCard, Activity)  
-lib → Supabase configuration  
+lib → Supabase configuration and client setup  
 
 ---
 
@@ -49,7 +49,7 @@ npm install
 
 ---
 
-### 2. Start development server
+### 2. Run development server
 
 npm run dev  
 
@@ -68,22 +68,25 @@ npm run start
 
 ---
 
-## 🧠 Project Overview
+## 🧠 Project Description
 
-This project is a **single-page dashboard application** that:
+This is a **full Web Development project** that includes:
 
-- Connects to Supabase database  
-- Fetches real-time course data  
-- Displays everything in a modern UI dashboard  
+- Frontend UI development  
+- Backend integration using Supabase  
+- Dynamic data handling  
+- Component-based architecture  
+
+It simulates a real-world student dashboard system.
 
 ---
 
 ## 👨‍💻 Developer
 
-Built as a frontend development learning project using modern web technologies.
+Built as a **Web Development learning project** to understand modern full-stack concepts.
 
 ---
 
 ## ⭐ Note
 
-This is a single-page application focused on dashboard UI, data fetching, and clean design principles.
+This is a single-page web application focused on dashboard design, data integration, and modern web development practices.
